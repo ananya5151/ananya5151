@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ananya5151
 - 👀 I’m interested in gen AI and web development
-- 🌱 I’m currently learning in new AI technologies
+- 🌱 I’m currently engaging in new AI technologies
 - 📫 You can reach out to me from my LinkedIn
 
 <!---
